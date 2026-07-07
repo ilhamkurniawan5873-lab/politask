@@ -1,6 +1,6 @@
 {
   "name": "PoliTask",
-  "description": "Aplikasi Manajemen Tugas Kuliah yang Praktis dan Terjadwal.",
+  "description": "Aplikasi produktivitas mengatur agenda tugas akademik dan rutinitas harian dengan kalender dinamis.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
